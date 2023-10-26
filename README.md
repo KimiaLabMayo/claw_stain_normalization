@@ -33,8 +33,8 @@ This code is for academic and research applications only. If you use any part of
 
 The images included in the demo file are from "Ensemble of classifiers and wavelet transformation for improved recognition of Fuhrman grading in clear cell renal cell carcinoma" paper.
 ### Useful Links
-- [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086617&tag=1)
-- [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2)
+- [Read the paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086617&tag=1)
+- [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/claw-stain-normalization/)
 ### Disclaimer
 Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
 
