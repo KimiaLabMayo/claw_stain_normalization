@@ -36,6 +36,6 @@ The images included in the demo file are from "Ensemble of classifiers and wavel
 - [Read the paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086617&tag=1)
 - [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/claw-stain-normalization/)
 ### Disclaimer
-Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
+Kimia Lab at Mayo Clinic does not own the code in this repository. The code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
 
-Before using or cloning this repository, please read the [End User Agreement](agreement.pdf).
+This code is intended for research purposes only. Before using or cloning this repository, please read the [End User Agreement](agreement.pdf).
